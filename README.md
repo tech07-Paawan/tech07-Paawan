@@ -1,5 +1,6 @@
-# 💫 About Me:
+# 🐱‍👤 About Me:
 Hey! I am Paawan, <br>a Delhi University student from a CBSE background with a growth mindset.<br> Driven to push performance and learn hard <br><br>• The Corporate Operations (Non-Tech): I bring over 3+ years of robust corporate experience across diverse sectors. Currently working as a Taxation Consultant at BlueBell Group, I manage complex B2B relations and financial enterprise workflows. Previously, I solved critical customer-tech queries in the FinTech space (RFNI Relipay) and handled high-pressure, national-scale logistical operations for live events with BookMyShow in Eventifide Events Agency.<br><br>The Technical Core Stack: My core technical strength lies in critical troubleshooting and system logic. I am actively surfing into a high-growth Technical Role, backed by a deep, self-taught tech stack. My skills include HTML5, CSS, Java, Python, C/C++, Bash Scripting, Linux Kernel deep-dives, and AWS Cloud infrastructure including instance management. 
+Become to G.O.A.T—just like Cristiano Ronaldo, SIUUUUUU! ⚽🔥
 
 
 ## 🌐 Socials:
